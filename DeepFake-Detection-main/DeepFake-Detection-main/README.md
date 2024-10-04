@@ -35,6 +35,9 @@ DeepFake-Detection
 
 <b>Add these folders to the root folder(DeepFake_Detection). Since, the path has already been given to the "server.py" file and also to avoid any path related errors.</b>
 
+## My Project link 
+i posted this project on my github profile[here](https://github.com/Rahul647Kumar/deepfakedetection/tree/main/DeepFake-Detection-main/DeepFake-Detection-main)
+
 ## Our Results
 
 1) Accuracy of the Model:
